@@ -17,6 +17,7 @@ Also I'm just a girl 🎀
 ### 🌱 Currently Learning
 - JavaScript & CSS for web development
 - Backend basics (to become a full-stack dev soon!)
+- Data Analytics
 
 ### 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/aasmita-das-3b125b321/
