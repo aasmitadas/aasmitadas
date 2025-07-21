@@ -19,11 +19,6 @@ Also I'm just a girl 🎀
 - Backend basics (to become a full-stack dev soon!)
 - Data Analytics
 
-### 📫 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/aasmita-das-3b125b321/
-- Email: aasmitadas81@gmail.com
-- Instagram: https://www.instagram.com/fluf.fy.bear/?hl=en
-
 💻 Always open to collaboration, learning, and building cool projects together!
 
 
