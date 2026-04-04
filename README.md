@@ -2,11 +2,18 @@
 I'm an IT student passionate about coding, design, and building meaningful tech! I've now explored full-stack web development and enjoy creating interactive, aesthetic, and functional applications.
 
 🖥 Languages: Java, C, Python, JavaScript, HTML, CSS
+
 🌐 Focus: Full-Stack Web Development
+
 🎨 Interests: UI/UX design, web apps, and creative interfaces
+
 📊 Explored: Data Analysis (basics)
+
 🤖 Currently Learning: AI & Machine Learning
-💡 Hobbies: Coding, sketching, watching tech content, and designing cute UIs---
+
+💡 Hobbies: Coding, sketching, watching tech content, and designing cute UIs
+
+---
 
 ## 💻 Tech Stack
 
@@ -45,16 +52,10 @@ I'm an IT student passionate about coding, design, and building meaningful tech!
 ## 🌱 Currently Learning
 
 ✨ AI & Machine Learning
+
 ✨ Advanced Backend Development
+
 ✨ Leveling up Data Analytics
-
----
-
-## 📈 GitHub Stats
-
-![Aasmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasmitadas\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmitadas\&layout=compact\&theme=radical)
 
 ---
 
