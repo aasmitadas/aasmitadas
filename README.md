@@ -1,9 +1,14 @@
 # 🚀 About Me
-I'm an IT student passionate about coding, design, and building meaningful tech! I've now explored full-stack web development and enjoy creating interactive, aesthetic, and functional applications.
+
+<div align="center">
+<img width="250" height="400" alt="ChatGPT Image May 20, 2026, 09_54_10 PM" src="https://github.com/user-attachments/assets/85a8b65a-69b5-474c-b725-fa7609225f39" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Argentina+Guides&pause=1000&color=FF69B4&background=FFF0F500&center=true&vCenter=true&width=435&lines=IT+Student+;Creative+Web+Developer+;Building+Interactive+Projects;Always+Learning;Always+Creating)](https://git.io/typing-svg)
+</div>
 
 🖥 Languages: Java, C, Python, JavaScript, HTML, CSS
 
-🌐 Focus: Full-Stack Web Development
+🌐 Focus: Full-Stack Web Development, AIML
 
 🎨 Interests: UI/UX design, web apps, and creative interfaces
 
@@ -11,7 +16,7 @@ I'm an IT student passionate about coding, design, and building meaningful tech!
 
 🤖 Currently Learning: AI & Machine Learning
 
-💡 Hobbies: Coding, sketching, watching tech content, and designing cute UIs
+💡 Hobbies: Coding, sketching, photography, and designing cute UIs
 
 ---
 
