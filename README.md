@@ -1,24 +1,46 @@
-# 🚀 About Me
-
 <div align="center">
-<img width="250" height="400" alt="ChatGPT Image May 20, 2026, 09_54_10 PM" src="https://github.com/user-attachments/assets/85a8b65a-69b5-474c-b725-fa7609225f39" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Argentina+Guides&pause=1000&color=FF69B4&background=FFF0F500&center=true&vCenter=true&width=435&lines=IT+Student+;Creative+Web+Developer+;Building+Interactive+Projects;Always+Learning;Always+Creating)](https://git.io/typing-svg)
+<img width="800" height="350" alt="X" src="https://github.com/user-attachments/assets/4dfa1a90-7bff-4cb6-a20e-42181c50745d" />
 </div>
 
-🖥 Languages: Java, C, Python, JavaScript, HTML, CSS
 
-🌐 Focus: Full-Stack Web Development, AIML
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=27&pause=1000&color=F72B76&background=FFFE6F00&center=true&vCenter=true&width=435&lines=AASMITA+here+%E2%AD%90!)](https://git.io/typing-svg)
+</div>
 
-🎨 Interests: UI/UX design, web apps, and creative interfaces
 
-📊 Explored: Data Analysis (basics)
+## 🫧 About Me
 
-🤖 Currently Learning: AI & Machine Learning
+<table width="100%" style="border: none;">
+<tr>
 
-💡 Hobbies: Coding, sketching, photography, and designing cute UIs
+<td width="70%" valign="top">
 
----
+
+✨ IT Student & Creative Developer  
+
+🎮 Building interactive projects  
+
+📷 Photography enthusiast  
+
+🧠 Exploring AI & Machine Learning  
+
+🎨 Love aesthetic UI/UX  
+
+🐱 Cat lover  
+
+💻 Currently improving Full-Stack Development  
+
+</td>
+
+<td width="30%" align="right" valign="top">
+
+<img width="500" height="225" alt="ada30cc8da629e88753aa55618594c8f_720w" src="https://github.com/user-attachments/assets/c0bdf6a3-52ed-4e38-89e4-dc916f73f34f" />
+
+</td>
+
+</tr>
+</table>
 
 ## 💻 Tech Stack
 
