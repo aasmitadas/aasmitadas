@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=27&pause=1000&color=F72B76&background=FFFE6F00&center=true&vCenter=true&width=435&lines=AASMITA+here+%E2%AD%90!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BBH+Bartle&pause=1000&color=F70000&background=0034F5&width=435&lines=BEYOND+THE+MASK+%F0%9F%95%B7%EF%B8%8F)](https://git.io/typing-svg)
 </div>
 
 
