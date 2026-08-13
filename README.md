@@ -11,12 +11,6 @@
 
 ## 🫧 About Me
 
-<table width="100%" style="border: none;">
-<tr>
-
-<td width="70%" valign="top">
-
-
 ✨ IT Student & Creative Developer  
 
 🎮 Building interactive projects  
@@ -30,17 +24,6 @@
 🐱 Cat lover  
 
 💻 Currently improving Full-Stack Development  
-
-</td>
-
-<td width="30%" align="right" valign="top">
-
-<img width="500" height="225" alt="ada30cc8da629e88753aa55618594c8f_720w" src="https://github.com/user-attachments/assets/c0bdf6a3-52ed-4e38-89e4-dc916f73f34f" />
-
-</td>
-
-</tr>
-</table>
 
 ## 💻 Tech Stack
 
