@@ -19,10 +19,6 @@
 
 🧠 Exploring AI & Machine Learning  
 
-🎨 Love aesthetic UI/UX  
-
-🐱 Cat lover  
-
 💻 Currently improving Full-Stack Development  
 
 ## 💻 Tech Stack
